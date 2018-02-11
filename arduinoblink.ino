@@ -1,4 +1,4 @@
-// Arduino blink
+// Arduino blink - Ecender y apagar un led
 
 void setup(){
 	pinMode(13, OUTPUT);  // Configuramos el pin 13 como salida
